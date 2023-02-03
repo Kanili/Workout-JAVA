@@ -8,4 +8,8 @@ public class E07 {
         String resultado = numero % 2 == 0 ? "Result "+(numero+5) : "Result "+(numero+8);
         System.out.println(resultado);
     }
+
+    public static class E09 {
+        pu
+    }
 }
